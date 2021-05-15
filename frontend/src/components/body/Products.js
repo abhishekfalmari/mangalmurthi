@@ -56,7 +56,7 @@ export default function RecipeReviewCard() {
 
   return (
     <div className={classes.root}>
-      <Grid container spacing={3}>
+      <Grid container>
         <Grid item xs>
           <Card className={classes.paper}>
             <CardHeader
