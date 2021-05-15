@@ -91,11 +91,11 @@ function Header() {
                   id="menu-appbar"
                   anchorEl={anchorEl}
                   anchorOrigin={{
-                    vertical: "center",
+                    vertical: "top",
                     horizontal: "left",
                   }}
                   transformOrigin={{
-                    vertical: "center",
+                    vertical: "top",
                     horizontal: "left",
                   }}
                   open={open}
