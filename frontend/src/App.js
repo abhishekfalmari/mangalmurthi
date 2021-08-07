@@ -1,8 +1,10 @@
 import './App.css';
-import RootComponent from './RootComponent'
+import Router from './routes'
 function App() {
   return (
-    <RootComponent />
+    <>
+      <Router />
+    </>
   );
 }
 

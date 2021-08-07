@@ -1,10 +1,10 @@
 
 import React from 'react';
-import Header1 from './Header1'
+import Header from './Header'
 function App() {
   return (
     <React.Fragment>
-        <Header1 />
+      <Header />
     </React.Fragment>
   );
 }

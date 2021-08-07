@@ -29,3 +29,8 @@ code {
   color: white;
   padding: 10px;
 }
+.inputField {
+  background-color: #f1efef;
+  margin: 15px !important;
+  width: -webkit-fill-available !important;
+}
